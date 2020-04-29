@@ -33,7 +33,7 @@ $(window).on('load', function() {
                 "Workshops",
                 "Social events",
                 "Studying",
-                'Technical Student Society#<br><span class="flow-text" style="color:#ddd;">Guru Nanak Dev University Gurdaspur</span><br><a href="/join" class="typed-button">JOIN TODAY</a>'
+                'Technical Student Society#<br><span class="flow-text" style="color:#ddd;">Guru Nanak Dev University Gurdaspur</span><br><a href="/about.html" class="typed-button">Our Team</a>'
             ],
             contentType: 'html',
             typeSpeed: 100,
