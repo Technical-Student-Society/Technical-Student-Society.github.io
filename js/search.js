@@ -13,21 +13,21 @@
 			{
 				title: "About",
 				body: "About club services, committee members, FAQ",
-				href: "https://csclub.org.au/about",
+				href: "https://tsshash.in/about",
 				target: "_self",
 				colour: "pink"
 			},
 			{
 				title: "Contact",
 				body: "Want to get in touch with us?",
-				href: "https://csclub.org.au/contact",
+				href: "https://tsshash.in/contact",
 				target: "_self",
 				colour: "dark"
 			},
 			{
 				title: "FAQ",
 				body: "Frequently asked questions and other information.",
-				href: "https://csclub.org.au/about#faq",
+				href: "https://tsshash.in/about#faq",
 				target: "_self",
 				colour: "pink"
 			},
@@ -35,7 +35,7 @@
 				title: "Committee Members",
 				body:
 					"Members of the committee including the president, vice-president, treasurer, secretary, and four general members.",
-				href: "https://csclub.org.au/about#committee",
+				href: "https://tsshash.in/about#committee",
 				target: "_self",
 				colour: "pink"
 			},
@@ -43,7 +43,7 @@
 				title: "President",
 				body:
 					"Members of the committee including the president, vice-president, treasurer, secretary, and four general members.",
-				href: "https://csclub.org.au/about#committee",
+				href: "https://tsshash.in/about#committee",
 				target: "_self",
 				colour: "pink"
 			},
@@ -51,7 +51,7 @@
 				title: "Vice president",
 				body:
 					"Members of the committee including the president, vice-president, treasurer, secretary, and four general members.",
-				href: "https://csclub.org.au/about#committee",
+				href: "https://tsshash.in/about#committee",
 				target: "_self",
 				colour: "pink"
 			},
@@ -59,7 +59,7 @@
 				title: "Treasurer",
 				body:
 					"Members of the committee including the president, vice-president, treasurer, secretary, and four general members.",
-				href: "https://csclub.org.au/about#committee",
+				href: "https://tsshash.in/about#committee",
 				target: "_self",
 				colour: "pink"
 			},
@@ -67,7 +67,7 @@
 				title: "Secretary",
 				body:
 					"Members of the committee including the president, vice-president, treasurer, secretary, and four general members.",
-				href: "https://csclub.org.au/about#committee",
+				href: "https://tsshash.in/about#committee",
 				target: "_self",
 				colour: "pink"
 			},
@@ -75,7 +75,7 @@
 				title: "General committee",
 				body:
 					"Members of the committee including the president, vice-president, treasurer, secretary, and four general members.",
-				href: "https://csclub.org.au/about#committee",
+				href: "https://tsshash.in/about#committee",
 				target: "_self",
 				colour: "pink"
 			},
@@ -83,49 +83,49 @@
 				title: "CS Club Slack",
 				body:
 					"The Computer Science Club's Slack server is a friendly place to chat with current and past members.",
-				href: "https://csclub.org.au/about#slack",
+				href: "https://tsshash.in/about#slack",
 				target: "_self",
 				colour: "pink"
 			},
 			{
 				title: "Members",
 				body: "Members will have access to:...",
-				href: "https://csclub.org.au/about",
+				href: "https://tsshash.in/about",
 				target: "_self",
 				colour: "pink"
 			},
 			{
 				title: "Join",
 				body: "Become a CS Club member.",
-				href: "https://csclub.org.au/join",
+				href: "https://tsshash.in/join",
 				target: "_self",
 				colour: "yellow"
 			},
 			{
 				title: "Sign up",
 				body: "Become a CS Club member.",
-				href: "https://csclub.org.au/join",
+				href: "https://tsshash.in/join",
 				target: "_self",
 				colour: "yellow"
 			},
 			{
 				title: "Register",
 				body: "Become a CS Club member.",
-				href: "https://csclub.org.au/join",
+				href: "https://tsshash.in/join",
 				target: "_self",
 				colour: "yellow"
 			},
 			{
 				title: "Membership",
 				body: "Become a CS Club member.",
-				href: "https://csclub.org.au/join",
+				href: "https://tsshash.in/join",
 				target: "_self",
 				colour: "yellow"
 			},
 			{
 				title: "Membership cost",
 				body: "Membership costs $5.",
-				href: "https://csclub.org.au/join",
+				href: "https://tsshash.in/join",
 				target: "_self",
 				colour: "yellow"
 			},
@@ -133,7 +133,7 @@
 				title: "First year students",
 				body:
 					"If you are a first year student there are many activities held by the club at the start of the year specifically for you...",
-				href: "https://csclub.org.au/#first-years",
+				href: "https://tsshash.in/#first-years",
 				target: "_self",
 				colour: "blue"
 			},
@@ -155,7 +155,7 @@
 				title: "Social events",
 				body:
 					"Events such as meet and greets, games/movie nights, BBQs, and pub crawls are just some of the social events the club runs each year.",
-				href: "https://csclub.org.au/#socialise",
+				href: "https://tsshash.in/#socialise",
 				target: "_self",
 				colour: "blue"
 			}

@@ -1,5 +1,5 @@
 // Redirect to https
-var host = "csclub.org.au"
+var host = "tsshash.in"
 if (host == window.location.host && window.location.protocol != "https:") {
 	window.location.protocol = "https:"
 }

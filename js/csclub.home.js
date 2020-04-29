@@ -27,7 +27,7 @@ $(document).ready(function() {
 $(window).on('load', function() {
     // If the site has not been visited, type header text
     // Otherwise, just show the final result
-    if (!localStorage.getItem('csclub.org.au_visited') || localStorage.getItem('csclub.org.au_visited') == 'false') {
+    if (!localStorage.getItem('tsshash.in_visited') || localStorage.getItem('tsshash.in_visited') == 'false') {
         $("#tagline").typed({
             strings: [
                 "Workshops",
@@ -55,11 +55,11 @@ function typedCallback() {
     $('.typed-button').addClass('waves-effect waves-light btn');
     $('.header-down-arrow').fadeIn(800);
     // Local storage data to determine if site has been visited before
-    localStorage.setItem('csclub.org.au_visited', true);
+    localStorage.setItem('tsshash.in_visited', true);
 }
 // Shortcut for resetting local storage data (Ctrl+A)
 $(document).on('keydown', function(e) {
     if (e.keyCode == 65 && e.ctrlKey) {
-        localStorage.removeItem('csclub.org.au_visited');
+        localStorage.removeItem('tsshash.in_visited');
     }
 });
