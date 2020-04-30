@@ -1184,8 +1184,8 @@ h1 {
             -ms-transform: translateY(-100%);
                 transform: translateY(-100%);
  
-        -webkit-transition: all 0.3s 0.3s ease-out; 
-                transition: all 0.3s 0.3s ease-out;
+        -webkit-transition: all 0.3s 0.9s ease-out; 
+                transition: all 0.3s 0.9s ease-out;
 }
 
 .no-js #loader-wrapper {
@@ -1197,5 +1197,3 @@ h1 {
 #center h1 {
   color: aliceblue;
 }
-
-
